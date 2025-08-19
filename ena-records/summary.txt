@@ -1,0 +1,36 @@
+
+=== Family GH48 ===
+Total records: 517
+Distinct species: 18
+Environmental samples: 491
+Distinct hosts: 6
+
+=== Family GH80 ===
+Total records: 21
+Distinct species: 5
+Environmental samples: 1
+Distinct hosts: 1
+
+=== Family GH18 ===
+Total records: 121
+Distinct species: 47
+Environmental samples: 36
+Distinct hosts: 7
+
+=== Family GH75 ===
+Total records: 21
+Distinct species: 7
+Environmental samples: 11
+Distinct hosts: 2
+
+=== Family GH23 ===
+Total records: 22
+Distinct species: 16
+Environmental samples: 1
+Distinct hosts: 2
+
+=== Family GH19 ===
+Total records: 52
+Distinct species: 32
+Environmental samples: 2
+Distinct hosts: 7

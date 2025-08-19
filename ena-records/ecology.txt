@@ -1,0 +1,133 @@
+
+=== Family GH18 ===
+Total records: 121
+Distinct species: 47
+Environmental: 36 (29.8%)
+Non-environmental: 85 (70.2%)
+With host info: 16 (13.2%)
+Altitude (n=1): min=2808.0, max=2808.0, mean=2808.0
+Collection years: 2003–2022
+
+Top isolation sources:
+  soil: 29
+  rumen: 8
+  Qaidam water system: 2
+  Zagros forests: 1
+  GaHai salt lake: 1
+  Huaihe River: 1
+  GSL pigmented lake water 3: 1
+
+Top hosts:
+  Ovis aries: 5
+  Homo sapiens: 3
+  Eidolon helvum: 2
+  yak: 2
+  Pacifastacus leniusculus: 2
+  Querqus infectoria: 1
+  buffalo: 1
+
+=== Family GH19 ===
+Total records: 52
+Distinct species: 32
+Environmental: 2 (3.8%)
+Non-environmental: 50 (96.2%)
+With host info: 15 (28.8%)
+Collection years: 2009–2022
+
+Top isolation sources:
+  foliage: 5
+  plasma: 2
+  Qaidam water system: 2
+  marine sediment: 1
+  Zagros forests: 1
+  serum from a 33-year-old male patient: 1
+  soil: 1
+  Huaihe River: 1
+  Halite, pigmented, site 1: 1
+
+Top hosts:
+  Homo sapiens: 5
+  Solanum lycopersicum: 5
+  Querqus infectoria: 1
+  Hipposideros sp.: 1
+  Hipposideros ruber: 1
+  Eidolon helvum: 1
+  Zea mays subsp. mays: 1
+
+=== Family GH23 ===
+Total records: 22
+Distinct species: 16
+Environmental: 1 (4.5%)
+Non-environmental: 21 (95.5%)
+With host info: 5 (22.7%)
+Collection years: 2009–2022
+
+Top isolation sources:
+  Qaidam water system: 2
+  plasma: 2
+  Huaihe River: 1
+  serum from a 16-year-old female patient: 1
+  Halite, pigmented, sites 3,4: 1
+  Zagros forests: 1
+
+Top hosts:
+  Homo sapiens: 4
+  Querqus infectoria: 1
+
+=== Family GH48 ===
+Total records: 517
+Distinct species: 18
+Environmental: 491 (95.0%)
+Non-environmental: 26 (5.0%)
+With host info: 7 (1.4%)
+Collection years: 2002–2024
+
+Top isolation sources:
+  cow rumen: 455
+  arable soil: 31
+  forest soil: 2
+  Halite, non-pigmented, Site 7: 1
+  gut: 1
+  compost: 1
+
+Top hosts:
+  forest: 2
+  Reinhardtius hippoglossoides: 1
+  Batocera horsfieldi: 1
+  Eidolon helvum: 1
+  Gossypium hirsutum: 1
+  Oryza sativa: 1
+
+=== Family GH75 ===
+Total records: 21
+Distinct species: 7
+Environmental: 11 (52.4%)
+Non-environmental: 10 (47.6%)
+With host info: 3 (14.3%)
+Collection years: 2015–2017
+
+Top isolation sources:
+  soil: 11
+  plasma: 2
+  leaf: 1
+
+Top hosts:
+  Homo sapiens: 2
+  Theobroma cacao: 1
+
+=== Family GH80 ===
+Total records: 21
+Distinct species: 5
+Environmental: 1 (4.8%)
+Non-environmental: 20 (95.2%)
+With host info: 2 (9.5%)
+Collection years: 2017–2017
+
+Top isolation sources:
+  plasma: 2
+  Halite Environmental Control: 1
+
+Top hosts:
+  Homo sapiens: 2
+
+[OK] Wrote: ecology_summary.csv, top_hosts.csv, top_sources.csv
