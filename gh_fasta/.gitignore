@@ -9,3 +9,5 @@ Rplots.pdf
 # Temporary files
 *.tmp
 *.swp
+.RData
+.Rhistory
