@@ -1,0 +1,11 @@
+# R junk
+.Rhistory
+.RData
+.Rproj.user/
+
+# PDFs and plots (tracked in /plots only)
+Rplots.pdf
+
+# Temporary files
+*.tmp
+*.swp
